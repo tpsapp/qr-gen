@@ -29,7 +29,9 @@ a.out
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
-Makefile
+
+# Planning & agent artifacts
+.planning/
 
 # Generated compilation DB
 compile_commands.json
