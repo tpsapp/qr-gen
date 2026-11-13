@@ -84,6 +84,7 @@ cmake-build-release/
 *.temp
 *.bak
 *.backup
+*.png
 
 # Mac / Windows
 .DS_Store
